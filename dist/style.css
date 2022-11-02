@@ -89,6 +89,7 @@ nav {
 nav .logo {
   height: 80px;
   width: 80px;
+  z-index: 110;
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -ms-border-radius: 50%;

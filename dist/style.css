@@ -21,6 +21,12 @@ html {
   max-width: 1200px;
 }
 
+.line {
+  height: 30px;
+  width: 100%;
+  background-color: #000;
+}
+
 .header1 {
   display: flex;
   align-items: center;
@@ -602,7 +608,7 @@ nav .burger .line {
   padding: 1rem;
   font-size: 1.1rem;
   letter-spacing: 2px;
-  background-color: #791b82;
+  background-color: #2b619f;
   color: #fff;
   cursor: pointer;
   border: 2px groove #d4af37;
@@ -619,7 +625,7 @@ nav .burger .line {
   -o-transition: 0.3s ease-in-out;
 }
 #contact .contact-container .form-container form button:hover {
-  background-color: #8c2595;
+  background-color: #3e84d3;
   transition: 0.3s ease-in-out;
   -webkit-transition: 0.3s ease-in-out;
   -moz-transition: 0.3s ease-in-out;
@@ -642,16 +648,16 @@ nav .burger .line {
   justify-content: space-around;
   font-size: 3rem;
 }
-#contact .contact-container .form-container .socials-container a {
-  color: #791b82;
+#contact .contact-container .form-container .socials-container .socials a {
+  color: #2b619f;
   transition: 0.3s ease-in-out;
   -webkit-transition: 0.3s ease-in-out;
   -moz-transition: 0.3s ease-in-out;
   -ms-transition: 0.3s ease-in-out;
   -o-transition: 0.3s ease-in-out;
 }
-#contact .contact-container .form-container .socials-container a:hover {
-  color: #8c2595;
+#contact .contact-container .form-container .socials-container .socials a:hover {
+  color: #3e84d3;
   transition: 0.3s ease-in-out;
   -webkit-transition: 0.3s ease-in-out;
   -moz-transition: 0.3s ease-in-out;
